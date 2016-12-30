@@ -1,0 +1,8 @@
+{
+  "name": "huffman-coding",
+  "version": "0.1.0",
+  "description": "Implementation of huffman-coding",
+  "main": "index.js",
+  "author": "Luca Nils Schmid <me@lucaschmid.net>",
+  "license": "MIT"
+}
